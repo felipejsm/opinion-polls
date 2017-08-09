@@ -12,7 +12,7 @@ public class LineChartFactory implements IFactory{
     
     public Legend createLegend() {
         Legend legend = new Legend();
-        String [] data = {"Lula","Bolsonaro","Aécio"}; 
+        String [] data = {"Lula","Bolsonaro","AÃ©cio"}; 
         legend.setData(data);
         return legend;
     }
