@@ -1,5 +1,5 @@
 package com.polls.chart;
-import com.dp.chart.factory.IFactory;
+import com.polls.chart.factory.IFactory;
 
 public class LineChart extends Chart {
     public IFactory factory;
