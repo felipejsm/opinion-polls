@@ -1,4 +1,4 @@
-package com.polls.chart;
+package com.polls.chart.fields;
 public class Title {
     private String text;
     private String subtext;

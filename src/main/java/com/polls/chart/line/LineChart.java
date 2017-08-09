@@ -1,4 +1,5 @@
-package com.polls.chart;
+package com.polls.chart.line;
+import com.polls.chart.Chart;
 import com.polls.chart.factory.IFactory;
 
 public class LineChart extends Chart {

@@ -1,6 +1,5 @@
-package com.polls.chart;
-import com.dp.chart.Type;
-import com.dp.chart.markline.MarkLine;
+package com.polls.chart.fields;
+
 public class Series {
     private String name;
     private Type type;

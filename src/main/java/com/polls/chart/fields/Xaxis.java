@@ -1,4 +1,4 @@
-package com.polls.chart;
+package com.polls.chart.fields;
 public class Xaxis {
     private String[] data;
 	

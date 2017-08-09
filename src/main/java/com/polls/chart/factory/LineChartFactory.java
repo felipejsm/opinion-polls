@@ -2,11 +2,11 @@ package com.polls.chart.factory;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.polls.chart.Legend;
-import com.polls.chart.Series;
-import com.polls.chart.Title;
-import com.polls.chart.Type;
-import com.polls.chart.Xaxis;
+import com.polls.chart.fields.Legend;
+import com.polls.chart.fields.Series;
+import com.polls.chart.fields.Title;
+import com.polls.chart.fields.Type;
+import com.polls.chart.fields.Xaxis;
 
 public class LineChartFactory implements IFactory{
     
